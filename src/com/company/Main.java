@@ -15,7 +15,7 @@ public class Main {
         vasyaItems.add(ItemManager.CreateItemById(3));
 
 
-        //////////////////////////////////////////////
+        ////////////////////хуй//////////////////////////
         ArrayList<Item> petyItems = new ArrayList<>();
         petyItems.add(ItemManager.CreateItemById(2));
         petyItems.add(ItemManager.CreateItemById(4));
